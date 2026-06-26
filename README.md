@@ -83,7 +83,7 @@ To bridge the gap between human intent and database querying by utilizing Large 
 
 ## 🏗️ Project Architecture
 
-![System Architecture](ss/architecture_diagram.png)
+![System Architecture](assets/screenshots/architecture_diagram.png)
 
 The project follows a multi-agent pipeline where each node handles a specific responsibility:
 1. **Preference Node**: Extracts structured preferences.

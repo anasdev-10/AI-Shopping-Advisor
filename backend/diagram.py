@@ -136,9 +136,9 @@ ax.legend(handles=legend_items, loc='lower left',
           fontsize=8, framealpha=0.9, ncol=2)
 
 import os
-if not os.path.exists('../ss'):
-    os.makedirs('../ss')
+if not os.path.exists('../assets/screenshots'):
+    os.makedirs('../assets/screenshots')
 plt.tight_layout()
-plt.savefig('../ss/architecture_diagram.png', dpi=150, bbox_inches='tight',
+plt.savefig('../assets/screenshots/architecture_diagram.png', dpi=150, bbox_inches='tight',
             facecolor='#f8f9fa')
-print("\n✅ Diagram saved as ../ss/architecture_diagram.png")
+print("\n✅ Diagram saved as ../assets/screenshots/architecture_diagram.png")
