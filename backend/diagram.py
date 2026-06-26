@@ -135,8 +135,10 @@ legend_items = [
 ax.legend(handles=legend_items, loc='lower left',
           fontsize=8, framealpha=0.9, ncol=2)
 
+import os
+if not os.path.exists('../ss'):
+    os.makedirs('../ss')
 plt.tight_layout()
-plt.savefig('system_diagram.png', dpi=150, bbox_inches='tight',
+plt.savefig('../ss/architecture_diagram.png', dpi=150, bbox_inches='tight',
             facecolor='#f8f9fa')
-plt.show()
-print("\n✅ Diagram saved as system_diagram.png")
+print("\n✅ Diagram saved as ../ss/architecture_diagram.png")

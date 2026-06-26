@@ -83,7 +83,7 @@ To bridge the gap between human intent and database querying by utilizing Large 
 
 ## 🏗️ Project Architecture
 
-[Architecture Diagram]
+![System Architecture](ss/architecture_diagram.png)
 
 The project follows a multi-agent pipeline where each node handles a specific responsibility:
 1. **Preference Node**: Extracts structured preferences.
@@ -103,12 +103,7 @@ The project follows a multi-agent pipeline where each node handles a specific re
 **Description**: Visual representation of the LangGraph node execution for processing the query.
 ![Backend Nodes](assets/screenshots/Backend%20Nodes%20working.jpg)
 
-### 3. Detailed Explanations
-**Description**: The application returns ranked recommendations accompanied by AI-generated justifications.
-![Screenshot 1](assets/screenshots/Screenshot%202026-04-09%20214420.jpg)
-![Screenshot 2](assets/screenshots/Screenshot%202026-04-09%20215932.jpg)
 
-*(A video walkthrough is available in `assets/media/`)*
 
 ---
 
@@ -202,7 +197,7 @@ Navigate to `http://localhost:3000`.
 
 ```text
 ├── assets/
-│   ├── media/               # Video walkthroughs
+
 │   └── screenshots/         # UI and backend node screenshots
 ├── backend/
 │   ├── data/
