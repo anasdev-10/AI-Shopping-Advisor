@@ -109,7 +109,7 @@ The project follows a multi-agent pipeline where each node handles a specific re
 
 ## 🔬 Methodology
 
-1. **Data Collection**: Scalable web scraping pipelines bypassing anti-bot measures using ZenRows.
+1. **Data Collection**: Scalable web scraping pipelines bypassing anti-bot measures.
 2. **Data Preprocessing**: Normalization of prices, ratings, and specification extraction.
 3. **Intent Extraction**: Prompt engineering with fallback parsing to turn unstructured text into strict JSON criteria.
 4. **Evaluation & Inference**: Multi-factor ranking matrix calculating a composite score based on price, rating, and requested feature fulfillment.
