@@ -1,0 +1,16 @@
+name,brand,category,price_pkr,ram,storage,specs_summary,rating
+Galaxy S24,Samsung,phone,269999,12GB,256GB,"Flagship phone with 6.2-inch display, Snapdragon 8 Gen 3, 50MP camera",4.5
+Galaxy A35,Samsung,phone,109999,8GB,128GB,"Midrange phone with 6.5-inch AMOLED, 50MP main camera, 5G",4.2
+iPhone 15,Apple,phone,339999,8GB,256GB,"Premium phone with A17 chip, 48MP camera, 6.1-inch OLED",4.7
+iPhone SE (2024),Apple,phone,159999,6GB,128GB,"Compact phone with A16 Bionic, 4.7-inch Retina display",4.3
+Pixel 8,Google,phone,219999,8GB,128GB,"Camera-focused phone with Tensor G3, 6.2-inch OLED, 120Hz refresh",4.4
+Pixel 8a,Google,phone,149999,8GB,128GB,"Budget-friendly 5G phone with Tensor G3, 6.1-inch OLED display",4.1
+Mate 60,Huawei,phone,249999,12GB,256GB,"High-end phone with Kirin 9000s, 6.5-inch OLED, 50MP camera",4.3
+Nova 12,Huawei,phone,129999,8GB,256GB,"Value phone with 6.7-inch AMOLED, 108MP camera, fast charging",4.0
+ThinkPad X1 Carbon,Lenovo,laptop,424999,16GB,512GB,"Ultralight laptop with Intel Core i7, 14-inch 2.8K display, business tuned",4.6
+IdeaPad 5 Pro,Lenovo,laptop,189999,16GB,512GB,"Gaming-capable laptop with AMD Ryzen 7, 16-inch 120Hz display",4.2
+MacBook Air M3,Apple,laptop,389999,16GB,512GB,"Thin laptop with Apple M3, 13.6-inch Liquid Retina, fanless design",4.8
+MacBook Pro 14,Apple,laptop,469999,16GB,1TB,"Pro laptop with M3 Pro, 14-inch Liquid Retina XDR, superior battery",4.9
+Surface Laptop 6,Microsoft,laptop,259999,16GB,512GB,"Windows laptop with Intel Core i7, 13.5-inch PixelSense, lightweight design",4.4
+Inspiron 16,Dell,laptop,159999,16GB,512GB,"Everyday laptop with Intel Core i5, 16-inch FHD display, reliable build",4.1
+ROG Zephyrus G14,Asus,laptop,344999,16GB,1TB,"Gaming laptop with Ryzen 9, 14-inch 120Hz display, RTX 4060 graphics",4.5

@@ -1,0 +1,13 @@
+langgraph
+pandas
+ollama
+pymongo
+requests
+beautifulsoup4
+sqlalchemy
+psycopg2-binary
+python-dotenv
+openai
+google-genai
+fastapi
+uvicorn

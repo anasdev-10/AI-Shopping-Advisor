@@ -1,0 +1,18 @@
+@import "tailwindcss";
+
+@theme {
+  --color-background: #090B18;
+  --color-foreground: #F8FAFC;
+  
+  --color-navy-900: #090B18;
+  --color-navy-800: #0F1228;
+  
+  --color-purple-accent: #8B5CF6;
+  --color-pink-accent: #D946EF;
+  --color-cyan-accent: #22D3EE;
+}
+
+body {
+  background-color: var(--color-background);
+  color: var(--color-foreground);
+}

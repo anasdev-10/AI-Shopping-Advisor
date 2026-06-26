@@ -1,0 +1,35 @@
+{
+  "title_selectors": [
+    "[class*=title]",
+    "[class*=name]",
+    "a[href*='product']",
+    "h2",
+    "h3"
+  ],
+  "price_selectors": [
+    "[class*=price]",
+    "[class*=cost]",
+    "[data-price]",
+    ".price"
+  ],
+  "brand_selectors": [
+    "[class*=brand]",
+    "[class*=seller]",
+    "[class*=manufacturer]"
+  ],
+  "category_selectors": [
+    "[class*=category]",
+    "[class*=type]"
+  ],
+  "specs_selectors": [
+    "[class*=description]",
+    "[class*=summary]",
+    "[class*=details]",
+    "p"
+  ],
+  "rating_selectors": [
+    "[class*=rating]",
+    "[data-rating]",
+    ".stars"
+  ]
+}
